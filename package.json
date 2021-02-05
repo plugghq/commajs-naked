@@ -1,6 +1,6 @@
 {
   "name": "commajs-naked",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Commajs - The WYSIWYG framework",
   "main": "dist/commajs.min.js",
   "repository": {
